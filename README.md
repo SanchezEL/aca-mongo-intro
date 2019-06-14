@@ -74,3 +74,4 @@ After we perform some operations, we may want to verify that the data is in our 
 
 ## Deleting your data
 1. Run `db.users.deleteMany({})` replacing the word "users" with the appropriate collection name
+
